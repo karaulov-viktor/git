@@ -1,6 +1,6 @@
 <?php
 
-$title = 'new page';
+$title = 'My page';
 
 ?>
 
